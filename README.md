@@ -29,10 +29,10 @@ file -> Open Folder -> Chọn folder & OK
 2. Giải nén và copy 3 folder `css`, `img` và `js` và folder `aptech-landing-page`
 
 #### 3. Tạo file index.html
-![alt text](image-1.png)
+![alt text](./docs/image-1.png)
 
 #### 4. Khởi tạo code html
-![alt text](image-2.png)
+![alt text](./docs/image-2.png)
 
 ```html
 <!DOCTYPE html>
@@ -51,7 +51,7 @@ file -> Open Folder -> Chọn folder & OK
 ```
 
 #### 5. Kiểm tra nội dung mới thêm vào
-![alt text](image-3.png)
+![alt text](./docs/image-3.png)
 
 #### 6. Chỉnh sửa nội dung file html
 1. Thêm code cho phần `home`
@@ -146,11 +146,11 @@ file -> Open Folder -> Chọn folder & OK
   <link rel="stylesheet" href="./css/font-awesome.css">
 ```
 
-![alt text](image.png)
+![alt text](./docs/image.png)
 
 #### 8. Thêm `menu` cho trang web
-![alt text](image-5.png)
-![alt text](image-4.png)
+![alt text](./docs/image-5.png)
+![alt text](./docs/image-4.png)
 
 1. Thêm code cho phần `menu`
 ```html
