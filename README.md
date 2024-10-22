@@ -187,3 +187,4 @@ Hãy chỉnh sửa thông tin của trang web theo các yêu cầu sau:
 2. Đổi thông tin: Mô tả về bản thân -> Mô tả bản thân bạn
 3. Đổi màu tên của bạn từ đen sang đỏ
 4. Bấm vào nút `Khám phá thêm` đi đến `map`
+5. Thay đổi địa chỉ trên map thành địa chỉ nhà của bạn
